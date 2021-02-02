@@ -1,0 +1,27 @@
+body{
+background: url(images/owl.jpg) no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Lobster', cursive;
+}
+.clr{
+    box-shadow: 20px 10px 20px 10px white;
+    border-radius: 90px;
+    opacity: 0.8
+}
+.rowheight{
+    height: 100px;
+}
+.red{
+    background-color: red;
+}
+.pink{
+    background-color: aquamarine;
+}
+.footer{
+    box-shadow: 20px 10px 20px 30px white;
+    border-radius: 0px;
+    word-spacing: 10px;
+    background-color: chocolate;
+    bottom: 0;
+    
+}
